@@ -1,0 +1,19 @@
+Merhaba, bu botu kullanmadan aşşağıyı okumanı tavsiye ederim.
+
+1-) Botun Yönetici dahil bütün izinlere ve üye rollerinden üstün olmalıdır.
+
+2-) Üyelerden aşşağıda bir role sahip olursa izin olsa bile çalışmayabilir.
+
+3-) Botun Herhangi bir sorunu yoktur, kurulumu yanlış yaparsanız çalışmayacaktır.
+
+4-) Bot Jackpan#7134 Tarafından yapılmıştır.
+
+5-) Bot ile ilgili bir sorun yaşar iseniz Discord üzerinden #sorular kanalına @Jackpan#7134 Etiketleyip veya özelden ulaşabilirsiniz.
+
+6-) bot.js İçerinden kanalları ayarlamayınız komut şekilnde ayarlayınız otomatik orası değişecektir.
+
+7-) Komutları görmek için -yyardim Yazınız!
+
+8-) Prefixi ayarlar.json içierisinden ayarlayabilirsiniz.
+
+// İyi Çalışmalar Dileriz PLASMİC //
